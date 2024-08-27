@@ -8,3 +8,6 @@ Adding a new column 'Gender' with assigned values.
 Grouping data by gender and calculating the average age for each group.
 Sorting the DataFrame by age in descending order.
 Finally, the script saves the DataFrame to a CSV file named 'output.csv'
+
+![View the Python Script](Pandas_exc2.py)
+![View the Excel file](output.csv)
